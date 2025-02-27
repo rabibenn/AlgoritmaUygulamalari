@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rabi\\source\\repos\\\u0130lkProjem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38380D-C6FA-4ADC-A2F0-EED1B9D3FA94}|\u0130lkProjem\\\u0130lkProjem.csproj|c:\\users\\rabi\\source\\repos\\\u0130lkprojem\\\u0130lkprojem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38380D-C6FA-4ADC-A2F0-EED1B9D3FA94}|\u0130lkProjem\\\u0130lkProjem.csproj|solutionrelative:\u0130lkprojem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38380D-C6FA-4ADC-A2F0-EED1B9D3FA94}|\u0130lkProjem\\\u0130lkProjem.csproj|c:\\users\\rabi\\source\\repos\\\u0130lkprojem\\\u0130lkprojem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C38380D-C6FA-4ADC-A2F0-EED1B9D3FA94}|\u0130lkProjem\\\u0130lkProjem.csproj|solutionrelative:\u0130lkprojem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rabi\\source\\repos\\\u0130lkProjem\\\u0130lkProjem\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0130lkProjem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rabi\\source\\repos\\\u0130lkProjem\\\u0130lkProjem\\Form1.cs",
+              "RelativeToolTip": "\u0130lkProjem\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAEwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:17:32.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Rabi\\source\\repos\\\u0130lkProjem\\\u0130lkProjem\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0130lkProjem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rabi\\source\\repos\\\u0130lkProjem\\\u0130lkProjem\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "\u0130lkProjem\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:06:37.898Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

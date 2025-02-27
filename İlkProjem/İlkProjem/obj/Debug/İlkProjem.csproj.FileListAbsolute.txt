@@ -1,0 +1,10 @@
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\bin\Debug\İlkProjem.exe.config
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\bin\Debug\İlkProjem.exe
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\bin\Debug\İlkProjem.pdb
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\obj\Debug\İlkProjem.csproj.AssemblyReference.cache
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\obj\Debug\İlkProjem.Form1.resources
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\obj\Debug\İlkProjem.Properties.Resources.resources
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\obj\Debug\İlkProjem.csproj.GenerateResource.cache
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\obj\Debug\İlkProjem.csproj.CoreCompileInputs.cache
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\obj\Debug\İlkProjem.exe
+C:\Users\Rabi\source\repos\İlkProjem\İlkProjem\obj\Debug\İlkProjem.pdb
