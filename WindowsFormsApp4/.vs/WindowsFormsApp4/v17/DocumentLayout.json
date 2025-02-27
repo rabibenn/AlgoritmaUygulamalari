@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rabi\\OneDrive\\Desktop\\BO\u015EYAPMA\\Okan\\1. Y\u0131l\\2. Yar\u0131y\u0131l\\Algoritma Uygulamalar\u0131\\WindowsFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D32B21EE-E948-4876-A48B-B9FDA936BEF1}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\rabi\\onedrive\\desktop\\bo\u015Fyapma\\okan\\1. y\u0131l\\2. yar\u0131y\u0131l\\algoritma uygulamalar\u0131\\windowsformsapp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32B21EE-E948-4876-A48B-B9FDA936BEF1}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32B21EE-E948-4876-A48B-B9FDA936BEF1}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\Rabi\\OneDrive\\Desktop\\BO\u015EYAPMA\\Okan\\1. Y\u0131l\\2. Yar\u0131y\u0131l\\Algoritma Uygulamalar\u0131\\WindowsFormsApp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D32B21EE-E948-4876-A48B-B9FDA936BEF1}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rabi\\OneDrive\\Desktop\\BO\u015EYAPMA\\Okan\\1. Y\u0131l\\2. Yar\u0131y\u0131l\\Algoritma Uygulamalar\u0131\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rabi\\OneDrive\\Desktop\\BO\u015EYAPMA\\Okan\\1. Y\u0131l\\2. Yar\u0131y\u0131l\\Algoritma Uygulamalar\u0131\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:27:38.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Rabi\\OneDrive\\Desktop\\BO\u015EYAPMA\\Okan\\1. Y\u0131l\\2. Yar\u0131y\u0131l\\Algoritma Uygulamalar\u0131\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rabi\\OneDrive\\Desktop\\BO\u015EYAPMA\\Okan\\1. Y\u0131l\\2. Yar\u0131y\u0131l\\Algoritma Uygulamalar\u0131\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:27:38.434Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
